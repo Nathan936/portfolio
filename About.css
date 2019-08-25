@@ -1,0 +1,98 @@
+body {
+	background-image: url("http://cdn.optifydigital.netdna-cdn.com/wp-content/uploads/2015/01/Natural-Oil-Finish-Wood-Floor.jpeg?x27514v");
+	background-size: cover;
+	background-repeat: repeat-y;
+	margin: 30px;
+	padding: 0px;
+}
+
+header {	
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background-color: #32B20B;
+  border: 2px solid #32B20B;
+  height: 29px;	
+  top: 0px;
+}
+
+ul {
+  margin: 1px;
+  text-align: center;
+  word-spacing: 50px;
+}
+
+li {
+  color: white;
+  text-transform: uppercase;
+  display: contents;
+  width: 80px;
+}
+
+a {
+	color: white;
+	letter-spacing: 1px;
+	font-family: Poppins;
+}
+
+h1 {
+    box-sizing: border-box;
+    font-family: Poppins;
+    background-color: gray;
+    color: black;
+    border: 1px solid white;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 63px;
+}
+
+h3 {
+	font-family: Poppins;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-family: Poppins;
+	color: white;
+	background-color: forestgreen;
+	padding: 5px;
+	font-size: small;
+}
+
+.bands {
+	font-family: Poppins;
+    word-spacing: normal;
+    display: inline-grid;
+	text-align: -webkit-auto;
+}
+
+.merc {
+	border: 5px solid black;
+	height: 250px;
+	width: 400px;
+}
+
+.ibanez {
+	border: 5px solid black;
+	height: 400px;
+	width: 400px;
+	float: right;
+}
+
+iframe {
+	margin: 3px;
+	border: 5px solid white;	
+}
+
+a {
+	color: white;
+}
+
+.button {
+	color: white;
+	font-family: Poppins;
+}
